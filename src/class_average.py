@@ -1,4 +1,3 @@
-# Registro de notas e cálculo da média
 def calcular_media_turma():
     notas = []
     while True:

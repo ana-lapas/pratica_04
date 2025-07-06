@@ -1,4 +1,3 @@
-# Calculadora com operações básicas
 def calculadora():
     print("Escolha a operação: +, -, *, /")
     operacao = input("Operação: ")
